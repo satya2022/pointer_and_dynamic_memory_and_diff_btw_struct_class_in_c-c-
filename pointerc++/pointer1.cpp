@@ -26,7 +26,7 @@ int main()
 
 
 
-     //(right is it will  work becose alraday thay are equal) *pointer=a;
+     
     // working of pointer
     /*
     int var, *varPoint;
